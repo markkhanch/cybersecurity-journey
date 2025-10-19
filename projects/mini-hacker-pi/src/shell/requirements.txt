@@ -1,0 +1,4 @@
+pillow
+RPi.GPIO
+spidev
+st7789
