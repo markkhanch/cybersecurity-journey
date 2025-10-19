@@ -20,12 +20,14 @@ Each project includes its own `README.md` explaining:
 ## 📈 Purpose
 
 This repository is not coursework — it’s practical documentation.  
-The goal is to create a clear, verifiable record of hands-on experience in network, system security, and other personal projects.  
+The goal is to create a clear, verifiable record of hands-on experience in network and system security, as well as other personal projects.  
 Everything here can be reproduced, tested, and improved.
 
 ---
 
-## 📚 Learning Sources
+## 🧩 Learning Process
 
-My main sources of learning are **YouTube** and **ChatGPT** — used for continuous practice, concept breakdowns, and real-world troubleshooting.  
-I focus on understanding tools and methods through experimentation rather than memorization.
+I’m still learning. Many of these projects are experiments, and some may contain mistakes or incomplete ideas.  
+My main learning sources are **YouTube** (for visual walkthroughs, tool demos, and real attack simulations) and **ChatGPT**, which I use to break down concepts, debug code, and understand systems at a deeper level.  
+
+This repo is not about perfection — it’s about progress and persistence.
