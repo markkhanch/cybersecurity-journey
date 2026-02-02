@@ -31,3 +31,15 @@ I’m still learning. Many of these projects are experiments, and some may conta
 My main learning sources are **YouTube** (for visual walkthroughs, tool demos, and real attack simulations) and **ChatGPT**, which I use to break down concepts, debug code, and understand systems at a deeper level.  
 
 This repo is not about perfection — it’s about progress and persistence.
+
+---
+
+## Projects
+
+### Pi-gadget (Pygadget)
+
+Raspberry Pi handheld UI project built with Python.  
+Features a modular menu system, GPIO button input, SPI display (ST7789), and system/network monitoring apps.
+
+🔗 Repository: https://github.com/markkhanch/pi-gadget
+
