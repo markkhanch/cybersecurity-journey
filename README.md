@@ -42,7 +42,7 @@ This repository is about **progress, consistency, and applied learning**, not pe
 
 ## 🚀 Projects
 
-### Pi-gadget (Pygadget)
+### Pi-gadget
 
 A Raspberry Pi–based handheld UI device written in Python.
 
