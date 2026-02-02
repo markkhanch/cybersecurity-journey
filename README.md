@@ -1,45 +1,56 @@
 # 🧠 Cybersecurity Journey
 
-This repository documents my practical work in cybersecurity — focused on systems analysis, network defense, and offensive security testing.  
-Each project inside `projects/` is built to solve a real problem, automate a task, or demonstrate a concept I’ve studied.
+This repository documents my hands-on work in cybersecurity, with a focus on system analysis, network defense, and offensive security testing.
+
+Each project represents a practical experiment, tool, or prototype built to solve a real problem, automate a task, or explore a security concept in depth.
 
 ---
 
 ## 📂 Repository Structure
 
-- `projects/` — personal tools, experiments, and applied labs in cybersecurity.
+- `projects/` — applied cybersecurity projects, tools, and system-level experiments.
 
-Each project includes its own `README.md` explaining:
-- objective or threat model  
-- implementation details  
-- usage instructions  
-- test results or outcomes  
+Each project includes its own `README.md` describing:
+- the objective or threat model
+- implementation details
+- usage instructions
+- results, findings, or limitations
 
 ---
 
-## 📈 Purpose
+## 🎯 Purpose
 
-This repository is not coursework — it’s practical documentation.  
-The goal is to create a clear, verifiable record of hands-on experience in network and system security, as well as other personal projects.  
-Everything here can be reproduced, tested, and improved.
+This repository is **not coursework** and not a collection of theoretical notes.
+
+It is a practical, reproducible record of my learning process and hands-on experience in cybersecurity, systems, and networking.  
+Everything here can be reviewed, tested, modified, and improved.
 
 ---
 
 ## 🧩 Learning Process
 
-I’m still learning. Many of these projects are experiments, and some may contain mistakes or incomplete ideas.  
-My main learning sources are **YouTube** (for visual walkthroughs, tool demos, and real attack simulations) and **ChatGPT**, which I use to break down concepts, debug code, and understand systems at a deeper level.  
+I am actively learning, experimenting, and refining my skills.  
+Some projects may be incomplete, imperfect, or exploratory by design.
 
-This repo is not about perfection — it’s about progress and persistence.
+My primary learning sources include:
+- **YouTube** — for walkthroughs, tool demonstrations, and real-world attack simulations
+- **ChatGPT** — for breaking down complex concepts, debugging code, and understanding system behavior
+
+This repository is about **progress, consistency, and applied learning**, not perfection.
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### Pi-gadget (Pygadget)
 
-Raspberry Pi handheld UI project built with Python.  
-Features a modular menu system, GPIO button input, SPI display (ST7789), and system/network monitoring apps.
+A Raspberry Pi–based handheld UI device written in Python.
 
-🔗 Repository: https://github.com/markkhanch/pi-gadget
+Key features:
+- Modular menu and application system
+- GPIO button input
+- SPI display (ST7789)
+- System and network monitoring utilities
 
+🔗 Repository:  
+https://github.com/markkhanch/pi-gadget
